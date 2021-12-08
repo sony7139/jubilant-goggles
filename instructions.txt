@@ -3,9 +3,30 @@ Instructions for creating a new file
 Nothing to do
 --------------
 all the very best for your new assignmnet
--------------------------------------------
+-------------------hello------------------------
 im going to chnage this file
 -------------------------------------
 Troubleshooting
 ---------------------------------------
 jnbjhgjh mbjbm
+<<<<<<< HEAD
+
+
+i have made a change from local machine
+=======
+==========================================
+
+******************************************
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}}
+
+
+making ca change
+
+
+
+sony file is added to the repooooo
+>>>>>>> cea0777ace9c2515b302bbcb3f657de81db049d2
